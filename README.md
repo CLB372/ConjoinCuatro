@@ -1,9 +1,9 @@
 # ConjoinCuatro
 Game where players race to CONNECT 4 pieces to win. 1 or 2 players with adjustable difficulty.
 
-The file ConjoinCuatro.exe contains the executable file for this program.
+The file ConjoinCuatroGame.exe contains the executable file for this program.
 
-The file ConjoinCuatro.cpp contains the relevant C++ code, written using MS Visual Studio 2017.
+The file ConjoinCuatroGame.cpp contains the relevant C++ code, written using MS Visual Studio 2017.
 
 2-player mode occurs on the same machine and instance of the program. The 2 players take turns using the keyboard to play.
 
